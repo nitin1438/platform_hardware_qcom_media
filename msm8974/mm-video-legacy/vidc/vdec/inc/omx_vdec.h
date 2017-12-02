@@ -54,7 +54,7 @@ static ptrdiff_t x;
 #include <linux/msm_ion.h>
 #endif
 #include <binder/MemoryHeapBase.h>
-#include <ui/ANativeObjectBase.h>
+#include "ANativeObjectBase.h"
 #include <binder/IServiceManager.h>
 extern "C"{
 #include<utils/Log.h>
